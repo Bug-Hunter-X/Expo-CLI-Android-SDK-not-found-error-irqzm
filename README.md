@@ -1,0 +1,1 @@
+This repository demonstrates a common error encountered when using the Expo CLI to build Android applications: the Android SDK not found error.  The error arises from the Expo CLI's inability to locate the necessary Android SDK components. The `bug.js` file showcases the code that triggers the error and the `bugSolution.js` demonstrates the steps to resolve it.
